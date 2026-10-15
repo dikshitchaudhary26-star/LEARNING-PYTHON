@@ -1,0 +1,27 @@
+#MODIFYING LIST
+
+a = [1,2,3,4]
+
+#a.append(5) #ADD ELEMENT AT LAST
+#print(a)
+
+
+#a.insert(1,12) #ADD ELEMENT AT FIRST INDEX
+#print(a)
+
+# a.remove(ele) #REMOVES FIRST MATCHING ELEMENT #IF ELEMENT IS NOT PRESENT THEN GIVES ERROR
+
+#a.remove(2) #IF NOTHING IS SPECIFIED IN () THEN IT WILL GIVE ERROR
+#print(a)
+
+#a.pop() #REMOVES ELEMENT AND THEN RETURN 
+#print(a)
+#print(a.pop())
+
+#TO REPLACE THE ELEMENT 
+# FOR EXAMPLE I WANT TO REPLACE 2 WITH 12
+a[1] =12
+print(a)
+
+
+
