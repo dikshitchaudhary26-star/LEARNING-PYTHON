@@ -2,11 +2,11 @@
 
 num = [4,1,9,3,0,2]
 
-num.sort() #SORT THE ELEMENTS IN ASCENDING ORDER
+num.sort(reverse=True) #SORT THE ELEMENTS IN ASCENDING ORDER
 
-print(num.index(4))# RETURNS THE INDEX OF FIRST MATCHING ELEMENT
+# print(num.index(4))# RETURNS THE INDEX OF FIRST MATCHING ELEMENT
 
-num.reverse()
+# num.reverse()
 
 
 
